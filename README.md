@@ -1,1 +1,1 @@
-# enterprise-retail-analytics-platform-flagship-project-
+# enterprise-retail-analytics-platform
